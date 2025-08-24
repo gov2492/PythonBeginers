@@ -1,3 +1,3 @@
 # PythonBeginers
-Python Learning for Artificial Intelligence
-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
+
+learning python
