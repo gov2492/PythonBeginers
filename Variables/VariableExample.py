@@ -45,3 +45,13 @@ print(i)
 #### Just Like follow as mathematics#######
 result = 2+3*5
 print(result)
+
+### Comparison Operator #######
+print(3>5)
+print(3!=3)
+print(3==3)
+print(3<5)
+### Logical Operator #########
+print(2>3 or 3<4)
+print(2<4 and 6>4)
+print(not 2>3)
